@@ -36,7 +36,7 @@ $ conda ipython kernel install --user --name=<any_name_for_kernel>
 $ conda deactivate
 ```
 ### Launch Jupyter lab
-Launch Jupyter lab and naviguate to open the post-processing-code.ipynb file under the code folder. Make sure to change the kernel to the one created above (e.g., see https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)
+Launch Jupyter lab and naviguate to open the main.ipynb file under the code folder. Make sure to change the kernel to the one created above (e.g., see https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)
 
 
 ## References
