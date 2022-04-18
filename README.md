@@ -13,6 +13,8 @@ This is the code associated with our manuscript on actionable guidelines for mak
 ### Prerequisites 
 We recommend using Anaconda to create and manage your development environment. All the subsequent instructions are provided assuming you are using [Anaconda (Python 3 version)](https://www.anaconda.com/products/individual).
 
+This dataset is necessary to run the code: https://github.com/fairdataihub/FAIR-BioRS-data
+
 ### Clone repo
 Clone the repo or download as a zip and extract.
 
