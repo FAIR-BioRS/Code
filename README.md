@@ -4,10 +4,9 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![DOI](https://zenodo.org/badge/404439394.svg)](https://zenodo.org/badge/latestdoi/404439394)
 
 # FAIR-BioRS-code
-This is the code associated with our manuscript on actionable guidelines for making research software FAIR [1]. It is structured according to the FAIR-BioRS guidelines using FAIRshare [1,2]. We refer to the manuscript for details about the dataset content.
+This is the code associated with our manuscript on actionable guidelines for making research software FAIR [1]. It is structured according to the FAIR-BioRS guidelines using FAIRshare [1,2,3]. We refer to the manuscript for details about the dataset content.
 
 ## Using the Jupyter notebook under the code folder
 
