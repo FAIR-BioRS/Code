@@ -5,6 +5,16 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+
+[contributors-shield]: https://img.shields.io/github/contributors/bvhpatel/GI-review-dataset.svg?style=flat-square
+[contributors-url]: https://github.com/bvhpatel/GI-review-dataset/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/bvhpatel/GI-review-dataset.svg?style=flat-square
+[stars-url]: https://github.com/bvhpatel/GI-review-dataset/stargazers
+[issues-shield]: https://img.shields.io/github/issues/bvhpatel/GI-review-dataset.svg?style=flat-square
+[issues-url]: https://github.com/bvhpatel/GI-review-dataset/issues
+[license-shield]: https://img.shields.io/github/license/bvhpatel/GI-review-dataset.svg?style=flat-square
+[license-url]: https://github.com/bvhpatel/GI-review-dataset/blob/master/LICENSE
+
 # FAIR-BioRS-code
 This is the code associated with our manuscript on actionable guidelines for making research software FAIR [1]. It is structured according to the FAIR-BioRS guidelines using FAIRshare [1,2,3]. We refer to the manuscript for details about the dataset content.
 
@@ -47,13 +57,3 @@ Launch Jupyter lab and naviguate to open the main.ipynb file under the code fold
 [2] Soundarajan, S. & Patel, B. FAIRshare: FAIR data and software sharing made easy. (2022). doi:10.5281/zenodo.6464058
 
 [3] https://github.com/fairdataihub/FAIRshare
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/bvhpatel/GI-review-dataset.svg?style=flat-square
-[contributors-url]: https://github.com/bvhpatel/GI-review-dataset/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/bvhpatel/GI-review-dataset.svg?style=flat-square
-[stars-url]: https://github.com/bvhpatel/GI-review-dataset/stargazers
-[issues-shield]: https://img.shields.io/github/issues/bvhpatel/GI-review-dataset.svg?style=flat-square
-[issues-url]: https://github.com/bvhpatel/GI-review-dataset/issues
-[license-shield]: https://img.shields.io/github/license/bvhpatel/GI-review-dataset.svg?style=flat-square
-[license-url]: https://github.com/bvhpatel/GI-review-dataset/blob/master/LICENSE
