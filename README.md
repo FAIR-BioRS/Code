@@ -18,7 +18,7 @@
 # FAIR-BioRS-code
 
 ## About
-This is the dataset associated with our manuscript on FAIR Biomedical Research Software (FAIR-BioRS) guidelines [1]. As part of that effort, we conducted a literature review to identify actionable guidelines for making research software FAIR. The data collected in that review is available in the dedicated GitHub repository [2]. This respository contains the Jupyter notebook used to analyze that review data. We refer to the manuscript for details about the use of this Jupyter notebook.
+This is the dataset associated with our manuscript on FAIR Biomedical Research Software (FAIR-BioRS) guidelines [1]. As part of that effort, we conducted a literature review to identify actionable guidelines for making research software FAIR. The data collected in that review is available in the dedicated GitHub repository [2]. This repository contains the Jupyter notebook used to analyze that review data. We refer to the manuscript [1] for further details about the use of this Jupyter notebook.
 
 ## Standards followed
 The overall code is structured according to the FAIR-BioRS guidelines using FAIRshare [1,3,4]. The Python code in the Jupyter notebook [main.ipynb](main.ipynb) follows the PEP8 guidelines [5]. All the dependencies are documented in the [environment.yml](environment.yml) file.
@@ -57,7 +57,7 @@ Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to chang
 
 The Jupyter notebook makes use of files in the associated GitHub repository (2). The code points directly to the required files so it is not required to download them. The csv file in the [input](input) folder can also be called as input to avoid re-running some time consuming code-block.
 
-Outputs of the code tables display directly in the notebook are plots displayed in the notebook but also saved as files to be included in our manuscript [1]. These saved plots are included in the [output](output) folder. 
+Outputs of the code include tables displayed directly in the notebook and plots displayed in the notebook but also saved as files to be included in our manuscript [1]. These saved plot files are included in the [output](output) folder here. 
 
 ## References
 [1] Patel, B., Soundarajan, S., Hu, Z. (2022) *Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines with a User-support Tool*. bioRxiv (https://doi.org/10.1101/2022.04.18.488694)
