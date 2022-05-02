@@ -68,4 +68,4 @@ Outputs of the code include tables displayed directly in the notebook and plots 
 
 [4] https://github.com/fairdataihub/FAIRshare
 
-[5] https://peps.python.org/pep-0008/
+[5] https://peps.python.org/pep-0008
