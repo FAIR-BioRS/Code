@@ -12,3 +12,4 @@ dependencies:
       - matplotlib == 3.0.3
       - seaborn == 0.11.2
       - pygithub == 1.55
+      - autopep8 == 1.6.0
