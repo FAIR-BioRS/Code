@@ -47,7 +47,8 @@ $ conda env create -f environment.yml
 ### Setup kernell for Jupyter lab
 ```sh
 $ conda activate FAIR-BioRS-code
-$ conda ipython kernel install --user --name=<any_name_for_kernel>
+$ conda install ipykernel
+$ ipython kernel install --user --name=<any_name_for_kernel>
 $ conda deactivate
 ```
 ### Launch Jupyter lab
