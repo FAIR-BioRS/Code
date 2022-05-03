@@ -4,7 +4,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6468963.svg)](https://doi.org/10.5281/zenodo.6468963)
 
 [contributors-shield]: https://img.shields.io/github/contributors/bvhpatel/GI-review-dataset.svg?style=flat-square
 [contributors-url]: https://github.com/bvhpatel/GI-review-dataset/graphs/contributors
@@ -46,7 +46,7 @@ $ conda env create -f environment.yml
 
 ### Setup kernell for Jupyter lab
 ```sh
-$ conda activate env-GI-review
+$ conda activate FAIR-BioRS-code
 $ conda ipython kernel install --user --name=<any_name_for_kernel>
 $ conda deactivate
 ```
