@@ -43,7 +43,33 @@ cd .FAIR-BioRS-code
 ```sh
 $ conda env create -f environment.yml
 ```
+### Setup env vars
+The environment variables required are listed in the table below along with information on how to get them
 
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Value or instructions for obtaining it</th>
+    <th>Purpose</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> GITHUB_ACCESS_TOKEN </td>
+    <td> <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">GitHub documentation</a> </td>
+    <td>Required (optionally) to run the code block related to counting the number of biomedical-related repositories on GitHub</td>
+  </tr>
+</tbody>
+</table>
+
+
+Each of them can be set in your conda environment as follows
+```sh
+$ conda activate FAIR-BioRS-code
+$ conda env config vars set MY_VAR=value1 MY_OTHER_VAR=value2
+```
 ### Setup kernell for Jupyter lab
 ```sh
 $ conda activate FAIR-BioRS-code
@@ -56,7 +82,7 @@ Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to chang
 
 ## Inputs/outputs
 
-The Jupyter notebook makes use of files in the associated GitHub repository (2). The code points directly to the required files so it is not required to download them. The csv file in the [input](input) folder can also be called as input to avoid re-running some time consuming code-block.
+The Jupyter notebook makes use of files in the associated GitHub repository [2]. The code points directly to the required files so it is not required to download them. The csv file in the [input](input) folder can also be called as input to avoid re-running some time consuming code-block.
 
 Outputs of the code include tables displayed directly in the notebook and plots displayed in the notebook but also saved as files to be included in our manuscript [1]. These saved plot files are included in the [output](output) folder here. 
 
