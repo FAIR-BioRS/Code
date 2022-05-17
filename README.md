@@ -78,7 +78,7 @@ $ ipython kernel install --user --name=<any_name_for_kernel>
 $ conda deactivate
 ```
 ### Launch Jupyter lab
-Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see [here]https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook). We recommend to use the [JupyterLab code formatter](https://github.com/ryantam626/jupyterlab_code_formatter) to facilitate compliance with PEP8 if you are editing the notebook.
+Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). We recommend to use the [JupyterLab code formatter](https://github.com/ryantam626/jupyterlab_code_formatter) to facilitate compliance with PEP8 if you are editing the notebook.
 
 ## Inputs/outputs
 
