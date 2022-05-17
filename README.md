@@ -1,5 +1,3 @@
-
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -21,7 +19,7 @@
 This is the dataset associated with our manuscript on FAIR Biomedical Research Software (FAIR-BioRS) guidelines [1]. As part of that effort, we conducted a literature review to identify actionable guidelines for making research software FAIR. The data collected in that review is available in the dedicated GitHub repository [2]. This repository contains the Jupyter notebook used to analyze that review data. We refer to the manuscript [1] for further details about the use of this Jupyter notebook.
 
 ## Standards followed
-The overall code is structured according to the FAIR-BioRS guidelines using FAIRshare [1,3,4]. The Python code in the Jupyter notebook [main.ipynb](main.ipynb) follows the PEP8 guidelines [5]. All the dependencies are documented in the [environment.yml](environment.yml) file.
+The overall code is structured according to the FAIR-BioRS guidelines using FAIRshare [1,3,4]. The Python code in the Jupyter notebook [main.ipynb](main.ipynb) follows the [PEP8 guidelines](https://peps.python.org/pep-0008). Functions are documented with docstring formatted following [Google's style guide](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings). All the dependencies are documented in the [environment.yml](environment.yml) file.
 
 ## Using the Jupyter notebook
 
@@ -78,7 +76,7 @@ $ ipython kernel install --user --name=<any_name_for_kernel>
 $ conda deactivate
 ```
 ### Launch Jupyter lab
-Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). We recommend to use the [JupyterLab code formatter](https://github.com/ryantam626/jupyterlab_code_formatter) to facilitate compliance with PEP8 if you are editing the notebook.
+Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). We recommend to use the [JupyterLab code formatter](https://github.com/ryantam626/jupyterlab_code_formatter) along with the [Black](https://github.com/psf/black) and [isort](https://github.com/PyCQA/isort) formatters to facilitate compliance with PEP8 if you are editing the notebook.
 
 ## Inputs/outputs
 
@@ -95,4 +93,3 @@ Outputs of the code include tables displayed directly in the notebook and plots 
 
 [4] https://github.com/fairdataihub/FAIRshare
 
-[5] https://peps.python.org/pep-0008
