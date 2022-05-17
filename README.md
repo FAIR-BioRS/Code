@@ -26,7 +26,7 @@ The overall code is structured according to the FAIR-BioRS guidelines using FAIR
 ## Using the Jupyter notebook
 
 ### Prerequisites 
-We recommend using Anaconda to create and manage your development environment. All the subsequent instructions are provided assuming you are using [Anaconda (Python 3 version)](https://www.anaconda.com/products/individual).
+We recommend using Anaconda to create and manage your development environment and using JupyterLab to run the notebook. All the subsequent instructions are provided assuming you are using [Anaconda (Python 3 version)](https://www.anaconda.com/products/individual) and JupyterLab.
 
 ### Clone repo
 Clone the repo or download as a zip and extract.
@@ -78,7 +78,7 @@ $ ipython kernel install --user --name=<any_name_for_kernel>
 $ conda deactivate
 ```
 ### Launch Jupyter lab
-Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)
+Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see [here]https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook). We recommend to use the [JupyterLab code formatter](https://github.com/ryantam626/jupyterlab_code_formatter) to facilitate compliance with PEP8 if you are editing the notebook.
 
 ## Inputs/outputs
 
