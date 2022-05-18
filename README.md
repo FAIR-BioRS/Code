@@ -3,6 +3,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6468963.svg)](https://doi.org/10.5281/zenodo.6468963)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fairdataihub/FAIR-BioRS-code/HEAD?labpath=main.ipynb)
 
 [contributors-shield]: https://img.shields.io/github/contributors/bvhpatel/GI-review-dataset.svg?style=flat-square
 [contributors-url]: https://github.com/bvhpatel/GI-review-dataset/graphs/contributors
