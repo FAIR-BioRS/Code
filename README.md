@@ -66,7 +66,7 @@ The environment variables required are listed in the table below along with info
 
 Each of them can be set in your conda environment as follows
 ```sh
-$ conda activate <environment with JupyterLab>
+$ conda activate <environment_with _JupyterLab>
 $ conda env config vars set MY_VAR=value1 MY_OTHER_VAR=value2
 ```
 ### Setup kernell for Jupyter lab
