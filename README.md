@@ -14,7 +14,7 @@
 [license-shield]: https://img.shields.io/github/license/bvhpatel/GI-review-dataset.svg?style=flat-square
 [license-url]: https://github.com/bvhpatel/GI-review-dataset/blob/master/LICENSE
 
-# FAIR-BioRS-code
+# Code: FAIR Biomedical Research Software (FAIR-BioRS) manuscript
 
 ## About
 This is the dataset associated with our manuscript on FAIR Biomedical Research Software (FAIR-BioRS) guidelines [1]. As part of that effort, we conducted a literature review to identify actionable guidelines for making research software FAIR. The data collected in that review is available in the dedicated GitHub repository [2]. This repository contains the Jupyter notebook used to analyze that review data. We refer to the manuscript [1] for further details about the use of this Jupyter notebook.
