@@ -17,7 +17,7 @@
 # Code: FAIR Biomedical Research Software (FAIR-BioRS) manuscript
 
 ## About
-This is the dataset associated with our manuscript on FAIR Biomedical Research Software (FAIR-BioRS) guidelines [1]. As part of that effort, we conducted a literature review to identify actionable guidelines for making research software FAIR. The data collected in that review is available in the dedicated GitHub repository [2]. This repository contains the Jupyter notebook used to analyze that review data. We refer to the manuscript [1] for further details about the use of this Jupyter notebook.
+This is the dataset associated with our manuscript on FAIR Biomedical Research Software (FAIR-BioRS) guidelines [1]. As part of that effort, we conducted a literature review to identify actionable guidelines for making research software FAIR. The data collected in that review is available in the dedicated GitHub repository [2]. This repository contains the Jupyter notebook used to analyze that review data. We refer to the manuscript [1] for further details about the use of this Jupyter notebook. See the FAIR-BioRS Hub repository (https://github.com/fairdataihub/FAIR-BioRS-Hub) for a list of ressources related to the FAIR-BioRS guidelines.
 
 ## Standards followed
 The overall code is structured according to the FAIR-BioRS guidelines using FAIRshare [1,3,4]. The Python code in the Jupyter notebook [main.ipynb](main.ipynb) follows the [PEP8 guidelines](https://peps.python.org/pep-0008). Functions are documented with docstring formatted following [Google's style guide](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings). All the dependencies are documented in the [environment.yml](environment.yml) file.
