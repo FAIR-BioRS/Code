@@ -85,6 +85,9 @@ The Jupyter notebook makes use of files in the associated GitHub repository [2].
 
 Outputs of the code include tables displayed directly in the notebook and plots displayed in the notebook but also saved as files to be included in our manuscript [1]. These saved plot files are included in the [output](output) folder here. 
 
+## Feedback and contribution
+Use the [GitHub issues](https://github.com/fairdataihub/FAIR-BioRS-code/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
+
 ## References
 [1] Patel, B., Soundarajan, S., Hu, Z. (2022) *Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines with a User-support Tool*. bioRxiv (https://doi.org/10.1101/2022.04.18.488694)
 
