@@ -2,6 +2,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![Curated with FAIRshare][fairshare-shield]][fairshare-url]
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6468963.svg)](https://doi.org/10.5281/zenodo.6468963)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fairdataihub/FAIR-BioRS-code/HEAD?labpath=main.ipynb)
 
@@ -13,6 +14,8 @@
 [issues-url]: https://github.com/bvhpatel/GI-review-dataset/issues
 [license-shield]: https://img.shields.io/github/license/bvhpatel/GI-review-dataset.svg?style=flat-square
 [license-url]: https://github.com/bvhpatel/GI-review-dataset/blob/master/LICENSE
+[fairshare-shield]: https://raw.githubusercontent.com/fairdataihub/FAIRshare/main/badge.svg
+[fairshare-url]: https://fairdataihub.org/fairshare
 
 # Code: FAIR Biomedical Research Software (FAIR-BioRS) manuscript
 
