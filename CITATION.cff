@@ -9,7 +9,11 @@ authors:
   given-names: Bhavesh
   orcid: https://orcid.org/0000-0002-0307-262X
 cff-version: 1.2.0
-date-released: '2022-04-18T23:44:52.280Z'
+date-released: '2022-06-02'
+identifiers:
+- description: DOI for this software's record on Zenodo
+  type: doi
+  value: 10.5281/zenodo.6468963
 keywords:
 - Code
 - Data curation
@@ -23,4 +27,4 @@ repository-code: https://github.com/fairdataihub/FAIR-BioRS-code
 title: 'Code: FAIR Biomedical Research Software (FAIR-BioRS) manuscript'
 type: software
 url: https://github.com/fairdataihub/FAIRshare
-version: 1.0.0
+version: 2.0.0
