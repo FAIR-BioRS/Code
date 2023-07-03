@@ -6,6 +6,7 @@ dependencies:
   - python = 3.7
   - ipykernel = 6.2.0
   - openpyxl = 3.0.10
+  - yaml = 0.2.5
   - ipywidgets
   - pip
   - pip:
