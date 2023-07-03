@@ -99,6 +99,6 @@ Use the [GitHub issues](https://github.com/FAIR-BioRS/Code/issues) for submittin
 If you use this code, please cite the associated manuscript referenced in the [FAIR-BioRS Hub](https://github.comFAIR-BioRS/Hub) and also cite the repository as:
 
 ```bash
-Patel, Bhavesh, Soundarajan, Sanjay, Ménager, Hervé & Hu, Zicheng. (2022). Code: FAIR Biomedical Research Software (FAIR-BioRS) manuscript [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6468963
+Patel, Bhavesh, Soundarajan, Sanjay, Ménager, Hervé & Hu, Zicheng. (2023). Code: FAIR Biomedical Research Software (FAIR-BioRS) manuscript [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6468963
 ```
 
