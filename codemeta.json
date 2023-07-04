@@ -10,6 +10,7 @@
     "issueTracker": "https://github.com/FAIR-BioRS/Code/issues",
     "name": "Code: FAIR Biomedical Research Software (FAIR-BioRS) manuscript",
     "version": "3.0.0",
+    "identifier": "110.5281/zenodo.8112631",
     "description": "Code related to our FAIR-BioRS manuscript. More details are available at the associated GitHub repository: https://github.com/FAIR-BioRS/Code",
     "applicationCategory": "Scientific",
     "releaseNotes": "Added:\nAdded code for the new approach to count the number of newly created biomedical-related software repositories on GitHub\n\nChanged:\nChanged code to work with the new data.xlsx file from https://github.com/FAIR-BioRS/Data\nChanged figure generation code to comply with the Scientific Data Journal figure formatting instructions",
