@@ -1,19 +1,16 @@
 # This CITATION.cff file was generated with FAIRshare.
 # Visit https://fairdataihub.org/fairshare to learn more!
 
-abstract: Code related to our FAIR-BioRS manuscript
+abstract: 'Code related to our FAIR-BioRS manuscript. More details are available at
+  the associated GitHub repository: https://github.com/FAIR-BioRS/Code'
 authors:
 - affiliation: California Medical Innovations Institute
   email: bpatel@calmi2.org
   family-names: Patel
   given-names: Bhavesh
-  orcid: https://orcid.org/0000-0002-0307-262X
+  orcid: 0000-0002-0307-262X
 cff-version: 1.2.0
-date-released: '2022-06-02'
-identifiers:
-- description: DOI for this software's record on Zenodo
-  type: doi
-  value: 10.5281/zenodo.6468963
+date-released: '2023-07-04'
 keywords:
 - Code
 - Data curation
@@ -22,9 +19,9 @@ keywords:
 - GitHub
 license: MIT
 message: If you use this software, please cite it as below.
-repository-artifact: https://github.com/fairdataihub/FAIR-BioRS-code
-repository-code: https://github.com/fairdataihub/FAIR-BioRS-code
+repository-artifact: https://github.com/FAIR-BioRS/Code
+repository-code: https://github.com/FAIR-BioRS/Code
 title: 'Code: FAIR Biomedical Research Software (FAIR-BioRS) manuscript'
 type: software
 url: https://github.com/fairdataihub/FAIRshare
-version: 2.0.0
+version: 3.0.0
